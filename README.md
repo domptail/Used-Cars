@@ -1,2 +1,3 @@
-# Used-Cars
-Price Predictions of Second-Hand Cars
+# Price Predictions of Second-Hand Cars (Ongoing)
+
+I want to optimize my search for second-hand cars using data science. I have pre-selected a couple of models that interest me (e.g., Kia Sorento, Mazda CX-5 and Toyota Rav4). I will collect data from carmax.com or cars.com (Price, Year, Mileage, Color, Trim, etc.) within a certain radius of my zip code (e.g., 100 miles). I will use this data to train an algorithm estimating the price of a car based on its characteristics. Finally I will try to identify good deals using the algorithm: if the algorithm predicts a higher price than the proposed price, it might be a good deal! 
