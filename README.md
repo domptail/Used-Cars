@@ -13,9 +13,10 @@ I will collect data from carmax.com or cars.com:
 - Price, 
 - Year, 
 - Mileage, 
-- Color 
-- Automatic or Manual transmission 
-- Trim, etc.) 
+- Color, 
+- Transmission (Automatic or Manual), 
+- Trim, 
+- HP (based on the year and trim).
 
 Some characteristics (e.g., color and transmission) are directly available on the first page of results of cars.com but not carmax.com.
 
