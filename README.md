@@ -18,9 +18,9 @@ I will collect data from carmax.com or cars.com:
 - Trim, 
 - HP (based on the year and trim).
 
-Some characteristics (e.g., color and transmission) are directly available on the first page of results of cars.com but not carmax.com.
+I will most likely use cars.com because some characteristics (e.g., color and transmission) are directly available on the first page of results of cars.com but not carmax.com.
 
-I will limit the search results to a certain radius around my zip code (e.g., 100 miles) because it is unlikely I will buy a car from across the country and prices do vary. Used cars tend to be cheaper in the northeast and in Florida compared to California for example ([reference](https://www.cnbc.com/2016/08/30/where-to-get-the-best-used-car-prices.html))
+I will limit the search results to a certain radius around my zip code (e.g., 100 miles) because it is unlikely that I will buy a car from across the country and prices do vary. Used cars tend to be cheaper in the northeast and in Florida compared to California for example ([reference](https://www.cnbc.com/2016/08/30/where-to-get-the-best-used-car-prices.html)).
 
 I will use the data to train an algorithm estimating the price of a car based on its characteristics. 
 
