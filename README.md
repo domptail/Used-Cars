@@ -7,21 +7,20 @@ I have pre-selected a couple of models that interest me:
 - Mazda CX-5, and 
 - Toyota Rav4. 
 
-I will collect data from carmax.com or cars.com:
+I will collect data from Carmax.com, Cars.com and/or Edmunds.com:
 - Brand, 
 - Model,
+- Trim, 
 - Price, 
 - Year, 
 - Mileage, 
 - Color, 
-- Transmission (Automatic or Manual), 
-- Trim, 
-- HP (based on the year and trim).
+- Drivetrain (FWD / AWD).
 
-I will most likely use cars.com because some characteristics (e.g., color and transmission) are directly available on the first page of results of cars.com but not carmax.com.
+Some characteristics (e.g., color and drivetrain) are directly available on the first page of results of Cars.com and Edmunds.com but not Carmax.com. The former also have larger car inventories and APIs to collect data. However, they also tend to have more missing data.
 
-I will limit the search results to a certain radius around my zip code (e.g., 100 miles) because it is unlikely that I will buy a car from across the country and prices do vary. Used cars tend to be cheaper in the northeast and in Florida compared to California for example ([reference](https://www.cnbc.com/2016/08/30/where-to-get-the-best-used-car-prices.html)).
+Depending on the number of results, I will limit the search results to a certain radius around my zip code (e.g., 500 miles) because it is unlikely that I will buy a car from across the country and prices do vary. Used cars tend to be cheaper in the northeast and in Florida compared to California for example ([reference](https://www.cnbc.com/2016/08/30/where-to-get-the-best-used-car-prices.html)).
 
-I will use the data to train an algorithm estimating the price of a car based on its characteristics. 
+I will use the data to train a model estimating the price of a car based on its characteristics. 
 
 Finally I will try to identify good deals using the algorithm: if the algorithm predicts a higher price than the proposed price, it might be a good deal! 
