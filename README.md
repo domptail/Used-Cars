@@ -3,19 +3,20 @@
 I want to optimize my search for second-hand cars using data science. 
 
 I have pre-selected a couple of models that interest me:
-- Kia Sorento, 
-- Mazda CX-5, and 
-- Toyota Rav4. 
+- Kia Sorento 
+- Mazda CX-5 
+- Toyota Rav4
+- Subaru Forester
 
 I will collect data from Carmax.com, Cars.com and/or Edmunds.com:
-- Brand, 
-- Model,
-- Trim, 
-- Price, 
-- Year, 
-- Mileage, 
-- Color, 
-- Drivetrain (FWD / AWD).
+- Brand 
+- Model
+- Trim 
+- Price 
+- Year 
+- Mileage 
+- Color (only with Cars.com or Edmunds.com)
+- Drivetrain (FWD / AWD) (only with Cars.com or Edmunds.com)
 
 Some characteristics (e.g., color and drivetrain) are directly available on the first page of results of Cars.com and Edmunds.com but not Carmax.com. The former also have larger car inventories and APIs to collect data. However, they also tend to have more missing data.
 
